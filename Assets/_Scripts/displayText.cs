@@ -12,7 +12,10 @@ public class displayText : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void OnMouseDown(){
+	void OnMouseOver(){
 		seeText.SetActive (true);
+	}
+	void OnMouseExit(){
+		seeText.SetActive (false);
 	}
 }
