@@ -53,7 +53,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Scripts\PickUpObject.cs" />
+     <Compile Include="Assets\_Scripts\displayText.cs" />
+     <Compile Include="Assets\_Scripts\Fader.cs" />
+     <Compile Include="Assets\_Scripts\Initiate.cs" />
+     <Compile Include="Assets\_Scripts\PlayerWalk.cs" />
+     <Compile Include="Assets\_Scripts\PlayerWalk1.cs" />
+     <Compile Include="Assets\_Scripts\RotateCube.cs" />
+     <Compile Include="Assets\_Scripts\SceneCtrl.cs" />
+     <Compile Include="Assets\_Scripts\TextFollower.cs" />
+     <Compile Include="Assets\_Scripts\triggerevent.cs" />
      <Compile Include="Assets\Citizen_Of_The_Forest\Scripts\MirrorReflection.cs" />
      <Compile Include="Assets\Citizen_Of_The_Forest\Scripts\OpenDoor.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Hello6DoFControllers\Scripts\DemoObjectController6DoF.cs" />
