@@ -56,8 +56,10 @@
      <Compile Include="Assets\_Scripts\displayText.cs" />
      <Compile Include="Assets\_Scripts\Fader.cs" />
      <Compile Include="Assets\_Scripts\Initiate.cs" />
+     <Compile Include="Assets\_Scripts\InstantiateAtMousePosition.cs" />
      <Compile Include="Assets\_Scripts\onHand.cs" />
      <Compile Include="Assets\_Scripts\pickMeUp.cs" />
+     <Compile Include="Assets\_Scripts\PickUpObject.cs" />
      <Compile Include="Assets\_Scripts\PlayerWalk.cs" />
      <Compile Include="Assets\_Scripts\PlayerWalk1.cs" />
      <Compile Include="Assets\_Scripts\RotateCube.cs" />
