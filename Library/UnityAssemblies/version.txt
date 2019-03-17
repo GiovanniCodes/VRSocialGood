@@ -67,9 +67,9 @@ D:/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Ti
 D:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
 D:/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
 D:/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
-D:/School/spring2019/VR Assignment 1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
-D:/School/spring2019/VR Assignment 1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
-D:/School/spring2019/VR Assignment 1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
+C:/Users/Genesis/Documents/GitHub/VRSocialGood/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
+C:/Users/Genesis/Documents/GitHub/VRSocialGood/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
+C:/Users/Genesis/Documents/GitHub/VRSocialGood/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
 D:/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
 D:/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
 D:\Unity\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Xcode.dll
@@ -204,8 +204,8 @@ D:/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxSta
 D:/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
 D:/Unity/Editor/Data/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll
 C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
-D:/School/spring2019/VR Assignment 1/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
-D:/School/spring2019/VR Assignment 1/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
+C:/Users/Genesis/Documents/GitHub/VRSocialGood/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+C:/Users/Genesis/Documents/GitHub/VRSocialGood/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
 D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll
 D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll
 D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\System.dll
