@@ -6,7 +6,11 @@ public class PickUpObject : MonoBehaviour {
 public GameObject item;
 public GameObject tempParent;
 public Transform guide;
-	
+	   // Start is called before the first frame update
+    void Start()
+    {
+        item.GetComponent<Rigidbody>().useGravity = true;
+    }
 	void OnMouseDown(){
 item.GetComponent<Rigidbody>().useGravity = false;
 item.GetComponent<Rigidbody>().isKinematic = true;
