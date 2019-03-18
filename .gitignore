@@ -6511,3 +6511,8 @@ Library/shadercompiler-UnityShaderCompiler.exe0.log
 *.log
 *.info
 *.sln
+*.dwlt
+*.log
+*.info
+*.info
+*.txt
