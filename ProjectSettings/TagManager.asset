@@ -3,7 +3,34 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - apple
+  - pear
+  - banana
+  - cheese
+  - mozz
+  - broc
+  - tomato
+  - strawberry
+  - onion
+  - carrot
+  - beer
+  - milk
+  - recangood
+  - blcangood
+  - water
+  - soda
+  - chip
+  - soap
+  - soil
+  - bread
+  - salad
+  - bowl
+  - jog
+  - meat
+  - cake
+  - sandwich
+  - slurpee
   layers:
   - Default
   - TransparentFX

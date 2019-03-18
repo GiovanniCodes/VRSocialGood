@@ -26,6 +26,7 @@ using Gvr.Internal;
 [HelpURL("https://developers.google.com/vr/unity/reference/class/GvrEditorEmulator")]
 public class GvrEditorEmulator : MonoBehaviour
 {
+    public GameObject player;
     // GvrEditorEmulator should only be compiled in the Editor.
     //
     // Otherwise, it will override the camera pose every frame on device which causes the
@@ -201,8 +202,9 @@ public class GvrEditorEmulator : MonoBehaviour
 
     private void UpdateHeadPositionAndRotation()
     {
-        HeadRotation = Quaternion.Euler(mouseY, mouseX, mouseZ);
+        HeadRotation = Quaternion.Euler(mouseY, 0, mouseZ);
         HeadPosition = HeadRotation * NECK_OFFSET - NECK_OFFSET.y * Vector3.up;
+        player.transform.rotation = Quaternion.Euler(0, mouseX, 0);
     }
 
     private void ApplyHeadOrientationToVRCameras()
