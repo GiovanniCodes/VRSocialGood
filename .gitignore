@@ -6502,3 +6502,12 @@ Temp/UnityTempFile-8678d9c33b10a1f49974849922922c0d
 Temp/UnityTempFile-d37d295c1b188404094425eaa1339276
 Temp/UnityTempFile-ef639a7554e96b449955a84cb9ad280e
 Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.meta
+*.info
+*.pdb
+*.dll
+*.pdb
+*.dll
+*.log
+*.info
+*.sln
