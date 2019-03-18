@@ -5,5 +5,5 @@ using UnityEngine;
 public class triggerevent : MonoBehaviour
 {
     string scene;
-    void OnCollisionEnter(Collision col) => Initiate.Fade("Scene2", Color.black, 0.5f);
+    void OnCollisionEnter(Collision col) => Initiate.Fade("Market", Color.black, 0.5f);
 }
