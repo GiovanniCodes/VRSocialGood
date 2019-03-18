@@ -14,7 +14,10 @@ public GameObject Panel;
     {
         audioSource = GetComponent<AudioSource>();
     }
-
+void Update()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
 
 
     void OnMouseDown()
