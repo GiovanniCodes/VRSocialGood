@@ -69,13 +69,13 @@ public class Data
         }
         return -1;
     }
-    public int getSugar(string food)
+    public int getCarbs(string food)
     {
         for (int i = 0; i < list.Count; i++)
         {
             if (list[i].name.ToLower().Equals(food.ToLower()))
             {
-                return list[i].sugar;
+                return list[i].carbs;
             }
         }
         return -1;

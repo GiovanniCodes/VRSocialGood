@@ -5,7 +5,7 @@ using UnityEngine;
 public class DataController : MonoBehaviour
 {
 
-    FoodData foodData = new FoodData();
+    Data foodData = new Data();
 
 
     void Start()
